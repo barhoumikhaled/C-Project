@@ -1,0 +1,23 @@
+C:\Dev\C#\TP_Gestion_Contact\CoucheDAL\bin\Debug\CoucheDAL.dll
+C:\Dev\C#\TP_Gestion_Contact\CoucheDAL\bin\Debug\CoucheDAL.pdb
+C:\Dev\C#\TP_Gestion_Contact\CoucheDAL\bin\Debug\CoucheModel.dll
+C:\Dev\C#\TP_Gestion_Contact\CoucheDAL\bin\Debug\CoucheModel.pdb
+C:\Dev\C#\TP_Gestion_Contact\CoucheDAL\obj\Debug\CoucheDAL.csprojResolveAssemblyReference.cache
+C:\Dev\C#\TP_Gestion_Contact\CoucheDAL\obj\Debug\CoucheDAL.dll
+C:\Dev\C#\TP_Gestion_Contact\CoucheDAL\obj\Debug\CoucheDAL.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheDAL\obj\Debug\CoucheDAL.csprojResolveAssemblyReference.cache
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheDAL\obj\Debug\CoucheDAL.dll
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheDAL\obj\Debug\CoucheDAL.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheDAL\bin\Debug\CoucheDAL.dll
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheDAL\bin\Debug\CoucheDAL.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheDAL\bin\Debug\CoucheModel.dll
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheDAL\bin\Debug\CoucheModel.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheDAL\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Dev\TP_Gestion_Contact\CoucheDAL\bin\Debug\CoucheDAL.dll
+C:\Dev\TP_Gestion_Contact\CoucheDAL\bin\Debug\CoucheDAL.pdb
+C:\Dev\TP_Gestion_Contact\CoucheDAL\bin\Debug\CoucheModel.dll
+C:\Dev\TP_Gestion_Contact\CoucheDAL\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Dev\TP_Gestion_Contact\CoucheDAL\bin\Debug\CoucheModel.pdb
+C:\Dev\TP_Gestion_Contact\CoucheDAL\obj\Debug\CoucheDAL.csprojResolveAssemblyReference.cache
+C:\Dev\TP_Gestion_Contact\CoucheDAL\obj\Debug\CoucheDAL.dll
+C:\Dev\TP_Gestion_Contact\CoucheDAL\obj\Debug\CoucheDAL.pdb

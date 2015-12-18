@@ -1,0 +1,27 @@
+C:\Dev\C#\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheBLL.dll
+C:\Dev\C#\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheBLL.pdb
+C:\Dev\C#\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheDAL.dll
+C:\Dev\C#\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheModel.dll
+C:\Dev\C#\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheDAL.pdb
+C:\Dev\C#\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheModel.pdb
+C:\Dev\C#\TP_Gestion_Contact\CoucheBLL\obj\Debug\CoucheBLL.csprojResolveAssemblyReference.cache
+C:\Dev\C#\TP_Gestion_Contact\CoucheBLL\obj\Debug\CoucheBLL.dll
+C:\Dev\C#\TP_Gestion_Contact\CoucheBLL\obj\Debug\CoucheBLL.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheBLL\obj\Debug\CoucheBLL.csprojResolveAssemblyReference.cache
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheBLL\obj\Debug\CoucheBLL.dll
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheBLL\obj\Debug\CoucheBLL.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheBLL.dll
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheBLL.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheDAL.dll
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheModel.dll
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheDAL.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheModel.pdb
+C:\Dev\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheBLL.dll
+C:\Dev\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheBLL.pdb
+C:\Dev\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheDAL.dll
+C:\Dev\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheModel.dll
+C:\Dev\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheDAL.pdb
+C:\Dev\TP_Gestion_Contact\CoucheBLL\bin\Debug\CoucheModel.pdb
+C:\Dev\TP_Gestion_Contact\CoucheBLL\obj\Debug\CoucheBLL.csprojResolveAssemblyReference.cache
+C:\Dev\TP_Gestion_Contact\CoucheBLL\obj\Debug\CoucheBLL.dll
+C:\Dev\TP_Gestion_Contact\CoucheBLL\obj\Debug\CoucheBLL.pdb

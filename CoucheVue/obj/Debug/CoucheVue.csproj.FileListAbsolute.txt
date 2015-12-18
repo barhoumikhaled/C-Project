@@ -1,0 +1,105 @@
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheVue.exe.config
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.csprojResolveAssemblyReference.cache
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\Acceuil.baml
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\AjoutContact.baml
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\InscriptionUser.baml
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\ProfilUser.baml
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\Acceuil.g.cs
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\AjoutContact.g.cs
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\InscriptionUser.g.cs
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\ProfilUser.g.cs
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\App.g.cs
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue_MarkupCompile.cache
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.g.resources
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.Properties.Resources.resources
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.csproj.GenerateResource.Cache
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheVue.exe
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheVue.pdb
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheBLL.dll
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheDAL.dll
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheModel.dll
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheBLL.pdb
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheDAL.pdb
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheModel.pdb
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.exe
+C:\Dev\C#\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheVue.exe.config
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.exe
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.csprojResolveAssemblyReference.cache
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\Acceuil.baml
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\AjoutContact.baml
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\InscriptionUser.baml
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\ProfilUser.baml
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\Acceuil.g.cs
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\AjoutContact.g.cs
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\InscriptionUser.g.cs
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\ProfilUser.g.cs
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\App.g.cs
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue_MarkupCompile.cache
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.g.resources
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.Properties.Resources.resources
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.csproj.GenerateResource.Cache
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheVue.exe
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheVue.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheBLL.dll
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheDAL.dll
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheModel.dll
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheBLL.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheDAL.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheModel.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\Resources\Icons.baml
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\Resources\Icons.g.cs
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\bin\Debug\MahApps.Metro.dll
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\bin\Debug\MahApps.Metro.xml
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheVue\obj\Debug\App.baml
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheVue.exe.config
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.exe
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.pdb
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheVue.exe
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheVue.pdb
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheBLL.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheDAL.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheModel.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\MahApps.Metro.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\System.Windows.Interactivity.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheBLL.pdb
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheDAL.pdb
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\CoucheModel.pdb
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\MahApps.Metro.xml
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.csprojResolveAssemblyReference.cache
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\Acceuil.baml
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\AjoutContact.baml
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\InscriptionUser.baml
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\ProfilUser.baml
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\Resources\Icons.baml
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\App.baml
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\Acceuil.g.cs
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\AjoutContact.g.cs
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\InscriptionUser.g.cs
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\ProfilUser.g.cs
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\Resources\Icons.g.cs
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\App.g.cs
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue_MarkupCompile.cache
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.g.resources
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.Properties.Resources.resources
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\CoucheVue.csproj.GenerateResource.Cache
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\AjouterActivities.baml
+C:\Dev\TP_Gestion_Contact\CoucheVue\obj\Debug\AjouterActivities.g.cs

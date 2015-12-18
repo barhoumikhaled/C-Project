@@ -1,0 +1,15 @@
+C:\Dev\C#\TP_Gestion_Contact\CoucheModel\bin\Debug\CoucheModel.dll
+C:\Dev\C#\TP_Gestion_Contact\CoucheModel\bin\Debug\CoucheModel.pdb
+C:\Dev\C#\TP_Gestion_Contact\CoucheModel\obj\Debug\CoucheModel.csprojResolveAssemblyReference.cache
+C:\Dev\C#\TP_Gestion_Contact\CoucheModel\obj\Debug\CoucheModel.dll
+C:\Dev\C#\TP_Gestion_Contact\CoucheModel\obj\Debug\CoucheModel.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheModel\obj\Debug\CoucheModel.csprojResolveAssemblyReference.cache
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheModel\obj\Debug\CoucheModel.dll
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheModel\obj\Debug\CoucheModel.pdb
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheModel\bin\Debug\CoucheModel.dll
+C:\Users\Awadi\Documents\Visual Studio 2013\Projects\TP_Gestion_Contact\CoucheModel\bin\Debug\CoucheModel.pdb
+C:\Dev\TP_Gestion_Contact\CoucheModel\bin\Debug\CoucheModel.dll
+C:\Dev\TP_Gestion_Contact\CoucheModel\bin\Debug\CoucheModel.pdb
+C:\Dev\TP_Gestion_Contact\CoucheModel\obj\Debug\CoucheModel.csprojResolveAssemblyReference.cache
+C:\Dev\TP_Gestion_Contact\CoucheModel\obj\Debug\CoucheModel.dll
+C:\Dev\TP_Gestion_Contact\CoucheModel\obj\Debug\CoucheModel.pdb
